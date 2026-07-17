@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+:root{
+   --color-1: rgb(10, 8, 8);
+   --color-2: #18181a  
+}
+#body{
+ 
+    background-image:url('images/bg-image-2.avif')
+}
+
+.portfolio-section{
+    width: 86vmax;
+    height: 86vh;
+    display: flex;
+   
+    background-color: rgb(163, 45, 2);
+    border-radius: 3px 3px;
+    margin: auto;
+    padding: 16px;
+    color:white;
+    gap:10px;
+    flex-direction: column;
+    
+}
+.navbar{
+    display: flex;
+    font-size: x-large;
+    gap:23% ;
+    justify-content: flex-start;
+
+}
+.nav-links{
+  text-decoration:none;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.into-section{
+
+}
+.intro-content{
+
+
+}
+.mehak{
+
+}
+.role{
+
+}
+.brief-des{
+
+}
+.image-content{
+
+}
+.footer{
+    
+
+}
+.footer-note{
+}
+.social-links{
+
+}
