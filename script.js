@@ -102,10 +102,8 @@ const revealObserver = new IntersectionObserver(
         
         const bar = entry.target.querySelector(".skill-bar span");
         if (bar) {
-          bar.style.width =
-            bar.style.width ||
-            bar.getAttribute("style")?.match(/width:\s*([^;]+)/)?.[1] ||
-            "0";
+           bar.style.width = bar.dataset.width
+           
         }
       }
     });
