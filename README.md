@@ -1,11 +1,11 @@
-# Portfolio
-Here's my first ever professional portfolio website as a website developer (Full MERN Stack Development) 
+# Personal Portfolio created on react
 
-I have used only HTML, CSS and JAVASCRIPT
+Basic UI design with Responsive layout
 
-# FEATURES:
-1=>Buttery Smooth-scroll
-2=>Responsive design
-3=>Theme toggle
-4=>Contact form
-5=>Animations
+(Frontend only )
+
+Features:
+ responsiveness
+ dark + light theme
+ used a pre-built react bit component 
+ 
